@@ -80,6 +80,6 @@ While building this project, I practised:
 
 Sujal kothale
 
-GitHub: Sujal Kothale (https://github.com/sujal-kothale-codes
+GitHub: Sujal Kothale https://github.com/sujal-kothale-codes
 
 If you find this project useful, consider giving the repository a star!
